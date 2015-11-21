@@ -1,0 +1,3 @@
+'ABBBCCD'
+'A'
+'AABBCACD'
